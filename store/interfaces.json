@@ -1,0 +1,6 @@
+{
+  "menu-custom": {
+    "component": "MainMenu",
+    "composition": "children"
+  }
+}
